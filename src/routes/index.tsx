@@ -178,7 +178,7 @@ function Index() {
         <div className="glow-teal mx-auto max-w-md rounded-3xl border border-primary/40 bg-card p-8 text-center">
           <h2 className="text-3xl font-extrabold text-primary">Comece hoje</h2>
           <p className="mt-2 text-muted-foreground">7 negócios que ninguém dá valor e pagam caladinho</p>
-          <p className="mt-6 text-5xl font-extrabold text-foreground">R$ XX</p>
+          <p className="mt-6 text-5xl font-extrabold text-foreground">R$ 14,90</p>
           <p className="mt-4 text-muted-foreground">O valor de um único cliente fechado já paga esse guia várias vezes.</p>
           <div className="mt-6"><Cta className="w-full sm:w-full">GARANTIR MEU ACESSO</Cta></div>
           <p className="mt-4 text-sm text-muted-foreground">🔒 Pagamento seguro • Acesso imediato por e-mail</p>
