@@ -229,3 +229,11 @@ function Index() {
     </main>
   );
 }
+
+/*
+ * Comentário interno: nada nesta tela é gerado dinamicamente.
+ * Todos os textos, os 7 negócios, o mapa, as perguntas frequentes e o preço
+ * de R$ 14,90 estão fixos aqui em src/routes/index.tsx.
+ * Todo botão de compra usa o mesmo endereço de checkout da Ticto:
+ * https://payment.ticto.app/O7C6F45EE
+ */
